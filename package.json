@@ -1,0 +1,1 @@
+{ "name": "backend", "dependencies": { "express": "*", "axios": "*", "mongoose": "*", "dotenv": "*", "jsonwebtoken": "*" } }
